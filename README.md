@@ -1,1 +1,1 @@
-# Diversos-Exerc-cios-Python
+# Diversos-Exercícios-Python
